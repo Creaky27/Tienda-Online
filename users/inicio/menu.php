@@ -26,22 +26,19 @@ $_SESSION = login_mem();
     
          </div>
          <br><br><br><br>
+
          <div class="elem">
-    
              <H2><a href="#">IR A CATEGORÍAS</a></H2>
-    
          </div>
          <br><br><br><br>
+
          <div class="elem">
-    
              <H2><a href="../../products/index.php">IR A PRODUCTOS</a></H2>
-    
          </div>
          <br><br><br><br>
+
          <div class="elem">
-    
-             <H2><a href="#">IR A TRIGGERS</a></H2>
-    
+             <H2><a href="../../fronts/front_users/index.php">IR A FRONTS</a></H2>
          </div>
     </center>
 </body>

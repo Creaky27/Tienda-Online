@@ -20,26 +20,30 @@ $_SESSION = login_mem();
 
         </div>
         <br><br><br><br>
-         <div class="elem">
+        <div class="elem">
+             <H2><a href="../../logs/logs/index.php">IR A LOGS</a></H2>
+        </div>
+        <br><br><br><br>
+        <div class="elem">
     
-             <H2><a href="base.php">IR A USUARIOS</a></H2>
+            <H2><a href="base.php">IR A USUARIOS</a></H2>
     
-         </div>
-         <br><br><br><br>
+        </div>
+        <br><br><br><br>
 
-         <div class="elem">
-             <H2><a href="#">IR A CATEGORÍAS</a></H2>
-         </div>
-         <br><br><br><br>
+        <div class="elem">
+            <H2><a href="#">IR A CATEGORÍAS</a></H2>
+        </div>
+        <br><br><br><br>
 
-         <div class="elem">
-             <H2><a href="../../products/index.php">IR A PRODUCTOS</a></H2>
-         </div>
-         <br><br><br><br>
+        <div class="elem">
+            <H2><a href="../../products/index.php">IR A PRODUCTOS</a></H2>
+        </div>
+        <br><br><br><br>
 
-         <div class="elem">
-             <H2><a href="../../fronts/front_users/index.php">IR A FRONTS</a></H2>
-         </div>
+        <div class="elem">
+            <H2><a href="../../fronts/front_users/index.php">IR A FRONTS</a></H2>
+        </div>
     </center>
 </body>
 </html>

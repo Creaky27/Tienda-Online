@@ -12,6 +12,7 @@ $logs = get_all_logs($connect)
 </head>
 <body>
 <h1><center> logs </center></h1>
+<h4><center><a href="../../users/inicio/menu.php"> Regresar </a></center></h4>
 <center>
     <form action="busqueda_index.php" method="post">
         <input type="text" name="busqueda" placeholder="buscar para ver tabla de logs" id="busqueda">

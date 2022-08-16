@@ -1,5 +1,6 @@
 <?php
 require_once("../lib/functions.php");
+$_SESSION = login_mem();
 $id = $_GET['id'];
 $resultado = get_categorie($connect, $id);
 $categoria = mysqli_fetch_array($resultado);

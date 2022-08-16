@@ -3,6 +3,7 @@ require_once("../lib/functions.php") ;
 get_search($connect);
 $search = $_GET['search'];
 error_reporting (0);
+$_SESSION = login_mem();
 ?>
 <!DOCTYPE html>
 <html lang="es-MX">

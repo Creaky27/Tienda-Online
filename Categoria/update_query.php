@@ -1,5 +1,6 @@
 <?php
 require_once("../lib/functions.php");
+$_SESSION = login_mem();
 
 $name = $_POST['name'];
 $status = $_POST['status'];

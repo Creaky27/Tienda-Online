@@ -1,6 +1,6 @@
 <?php
 require_once("../LIB/functions.php");
-
+$_SESSION = login_mem();
 ?>
 
 <!DOCTYPE html>

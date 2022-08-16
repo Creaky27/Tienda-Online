@@ -30,7 +30,7 @@
 </form>
 
 <div class="elem">
-<h3><a href="login.php">VOLVER A LOGIN</a></h3>
+<h3><a href="../../login.php">VOLVER A LOGIN</a></h3>
    </div>
 </center>
 </body>

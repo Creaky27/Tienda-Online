@@ -8,9 +8,12 @@
 
 <body>
 <center>
-   <h1>INICIO DE SESIÓN</h1>
+
+<h1>¡BIENVENIDO A eloriginal_unid!</h1>
+<br>
+    <h1>INICIO DE SESIÓN</h1>
    
-<form action="login_validation.php" method="POST">
+<form action="users/inicio/login_validation.php" method="POST">
 
 <div class="elem">
   <input type="text" placeholder="Correo electrónico" name="email"/>
@@ -26,7 +29,7 @@
 </form>
 <br>
 <div class="elem">
-<h3>¿Aún no estás registrado? <a href="register.php">REGISTRATE AQUÍ</a></h3>
+<h3>¿Aún no estás registrado? <a href="users/inicio/register.php">REGISTRATE AQUÍ</a></h3>
    </div>
 </center>
 </body>

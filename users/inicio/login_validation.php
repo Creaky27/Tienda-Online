@@ -22,7 +22,7 @@ session_start();
 
     //MUESTRA MENSAJE DE ERROR MEDIANTE UNA VENTANA//
     echo '<center><h3>Correo o contraseña incorrectos <br>
-    <a href="login.php">inicia sesion</a></h3></center>';
+    <a href="../../login.php">inicia sesion</a></h3></center>';
     exit();
 }
 

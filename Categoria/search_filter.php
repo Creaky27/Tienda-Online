@@ -22,7 +22,7 @@ $_SESSION = login_mem();
         <thead>
 
             <form action="search_filter.php" method="get">
-            <input type="text" name="search" placeholder="Filtrar búsqueda (id, nombres, correo electrónico)" value="<?php echo $search; ?>">
+            <input type="text" name="search" placeholder="Filtrar búsqueda" value="<?php echo $search; ?>">
             <button type="submit">Buscar</button>
             </form> 
             <br>

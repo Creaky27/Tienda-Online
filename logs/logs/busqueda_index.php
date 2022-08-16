@@ -25,7 +25,7 @@
 </center>
 
 <?php
-require_once("C:/xampp/htdocs/elorigin_unid/lib/connect.php");
+require_once("../lib/connect.php");
 if(isset($_POST['$Buscar'])){
 }else{
 $busqueda = $_POST['busqueda'];

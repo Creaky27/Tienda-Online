@@ -1,5 +1,5 @@
 <?php
-require_once("C:/xampp/htdocs/elorigin_unid/lib/functions.php");
+require_once("../lib/functions.php");
 $logs = get_all_logs($connect)
 ?>
 <!DOCTYPE html>

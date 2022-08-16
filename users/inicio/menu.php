@@ -32,7 +32,7 @@ $_SESSION = login_mem();
         <br><br>
 
         <div class="elem">
-            <H2><a href="#">IR A CATEGORÍAS</a></H2>
+            <H2><a href="../../categoria/categorias.php">IR A CATEGORÍAS</a></H2>
         </div>
         <br><br>
 
